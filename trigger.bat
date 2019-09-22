@@ -1,0 +1,1 @@
+C:\Users\priya\AppData\Local\Programs\Python\Python36\python.exe C:/cam.py
